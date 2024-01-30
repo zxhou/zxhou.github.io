@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: submenus others
 nav: true
 nav_order: 6
 dropdown: true
@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
+    - title: divider
+    - title: funding
+      permalink: /funding/
 ---
