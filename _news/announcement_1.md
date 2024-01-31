@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got accepted to ICRA 2024! :tada: &nbsp;🎉🎉
+One paper got accepted to ICRA 2024! &nbsp;🎉🎉
