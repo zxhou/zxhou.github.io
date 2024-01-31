@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper about binary point cloud transformer got accepted to ICRA 2024!
+One paper got accepted to ICRA 2024!
