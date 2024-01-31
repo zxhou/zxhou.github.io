@@ -7,7 +7,7 @@ subtitle: Ph.D candidate | Nanjing University of Science and Technology, China.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zhixing.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>hzx@njust.edu.cn</p>
@@ -21,10 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is some random test biography!!!!
+I am currently a Computer Science Ph.D. Student at Nanjing University of Science and Technology under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). Before this, I received my master's degree in Computer Science advised by Prof. [Hui Kong](https://sites.google.com/view/huikonglab/members/hui-kong) and bachelor’s degrees in Optical Information and Technology at Nanjing University of Science and Technology. During my doctoral studies, I had the opportunity to visit the [Zhuhai UM Science&Technology Research Institute (ZUMRI)](http://zumri.cn/) and [University of Macau](https://www.um.edu.mo/) from Sep. 2021 to Dec. 2022. I also worked as an intern at the Chip Algorithm Department of [HOUMO.AI](https://www.houmoai.com/) from Apr. to Oct. 2023.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests include **Point Cloud Processing**, **Place Recognition**, and **Efficient 3D**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
