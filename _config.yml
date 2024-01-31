@@ -171,12 +171,13 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+    scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+    limit: 20 # leave blank to include all the news in the `_news` folder
   projects:
     output: true
     permalink: /projects/:path/
 
-scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-limit: 20 # leave blank to include all the news in the `_news` folder
+ 
 
 # announcements:
 #   enabled: true
