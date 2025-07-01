@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D candidate | <a href='https://www.njust.edu.cn/'>Nanjing University of Science and Technology</a>, China.
+subtitle: Postdoctoral Researcher | <a href='https://gdiist.cn/'>Guangdong Institute of Intelligence Science and Technology</a>, China.
 
 profile:
   align: right
@@ -21,10 +21,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ***
+I am currently a postdoctoral researcher at the Guangdong Institute of Intelligent Science and Technology(GDIIST). Before this, I obtained a PhD, a Master's degree in Computer Science, and a Bachelor's degree in Optical Information Technology from Nanjing University of Science and Technology(NJUST). During my doctoral studies, I had the opportunity to visit the [Zhuhai UM Science&Technology Research Institute (ZUMRI)](http://zumri.cn/) and [University of Macau](https://www.um.edu.mo/) from Sep. 2021 to Dec. 2022. I also worked as an intern at the Chip Algorithm Department of [HOUMO.AI](https://www.houmoai.com/) from Apr. to Oct. 2023.
 
-I am currently a Postdoctoral Fellow at GDIIST. Before this, I received my Ph.D. degree and master's degree in Computer Science and bachelor’s degree in Optical Information and Technology at Nanjing University of Science and Technology. During my doctoral studies, I had the opportunity to visit the [Zhuhai UM Science&Technology Research Institute (ZUMRI)](http://zumri.cn/) and [University of Macau](https://www.um.edu.mo/) from Sep. 2021 to Dec. 2022. I also worked as an intern at the Chip Algorithm Department of [HOUMO.AI](https://www.houmoai.com/) from Apr. to Oct. 2023.
-
-My research interests include **Point Cloud Processing**, **Place Recognition**, and **Efficient 3D**.
+My research interests include **Brain-inspired Computing**, **Robotic Manipulation**, and **3D Vision**.
 
 
 
