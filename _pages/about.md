@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 ***
 
-I am currently a Computer Science Ph.D. Student at Nanjing University of Science and Technology(NJUST). Before this, I received my master's degree in Computer Science advised by Prof. [Hui Kong](https://sites.google.com/view/huikonglab/members/hui-kong) and bachelor’s degree in Optical Information and Technology at Nanjing University of Science and Technology. During my doctoral studies, I had the opportunity to visit the [Zhuhai UM Science&Technology Research Institute (ZUMRI)](http://zumri.cn/) and [University of Macau](https://www.um.edu.mo/) from Sep. 2021 to Dec. 2022. I also worked as an intern at the Chip Algorithm Department of [HOUMO.AI](https://www.houmoai.com/) from Apr. to Oct. 2023.
+I am currently a Postdoctoral Fellow at GDIIST. Before this, I received my Ph.D. degree and master's degree in Computer Science and bachelor’s degree in Optical Information and Technology at Nanjing University of Science and Technology. During my doctoral studies, I had the opportunity to visit the [Zhuhai UM Science&Technology Research Institute (ZUMRI)](http://zumri.cn/) and [University of Macau](https://www.um.edu.mo/) from Sep. 2021 to Dec. 2022. I also worked as an intern at the Chip Algorithm Department of [HOUMO.AI](https://www.houmoai.com/) from Apr. to Oct. 2023.
 
 My research interests include **Point Cloud Processing**, **Place Recognition**, and **Efficient 3D**.
 
